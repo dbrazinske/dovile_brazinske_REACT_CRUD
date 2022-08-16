@@ -1,0 +1,102 @@
+{
+  "householdAppliances": [
+    {
+      "id": "UYqNHWrgw9qM",
+      "categoryId": 1,
+      "manufacturer": "SAMSUNG",
+      "model": "RB33R8737S9/EF",
+      "price": 359.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/2/3/8127/06b4f17234b463b1e284f86a3523ae5d-1080x1000.jpg"
+    },
+    {
+      "id": "TDFMIoemppzD",
+      "categoryId": 2,
+      "manufacturer": "BEKO",
+      "model": "HSA24540N",
+      "price": 169.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/2/4/41601/1291695-600x600.jpg"
+    },
+    {
+      "id": "husO7ED5HnyD",
+      "categoryId": 3,
+      "manufacturer": "GORENJE",
+      "model": "ECS6350XC 739092",
+      "price": 254.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/2/6/53835/MB-PIMG-F65A56425E671BD3064A1CDCAEBC7E51-MABAGOR-1200Wx1200H-600x600.jpg"
+    },
+    {
+      "id": "1Z0RjVQWuhKh",
+      "categoryId": 4,
+      "manufacturer": "DELONGHI",
+      "model": "ECAM290.61.SB",
+      "price": 239.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/21/22/54920/DDDH-600x600.jpg"
+    },
+    {
+      "id": "Xw9CXwditgxs",
+      "categoryId": 5,
+      "manufacturer": "WHIRLPOOL",
+      "model": "WFC 3C33 F X",
+      "price": 189.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/2/5/51052/wfc-3c33-f-x-indaplov%C4%97s-600x600.jpg"
+    },
+    {
+      "id": "VfVNvZqPOg46",
+      "categoryId": 6,
+      "manufacturer": "SAMSUNG",
+      "model": "WW90T4540AE/LE",
+      "price": 219.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/54/55/40836/1-1080x1000.jpg"
+    },
+    {
+      "id": "fxbnDhdQOarR",
+      "categoryId": 7,
+      "manufacturer": "MIELE",
+      "model": "TWL780WP",
+      "price": 989.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/54/56/54925/VVXVBBXB-600x600.jpg"
+    },
+    {
+      "id": "1pYK31kCYqjy",
+      "categoryId": 8,
+      "manufacturer": "ELECTROLUX",
+      "model": "EL61H4SW",
+      "price": 117.99,
+      "img": "https://elektromarkt.lt/image/cache/catalog/p/1/62/63/78337/electrolux-el61h4sw-600x600.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "ŠALDYTUVAS"
+    },
+    {
+      "id": 2,
+      "title": "ŠALDIKLIS"
+    },
+    {
+      "id": 3,
+      "title": "VIRYKLĖ"
+    },
+    {
+      "id": 4,
+      "title": "KAVOS APARATAS"
+    },
+    {
+      "id": 5,
+      "title": "INDAPLOVĖ"
+    },
+    {
+      "id": 6,
+      "title": "SKALBIMO MAŠINA"
+    },
+    {
+      "id": 7,
+      "title": "DŽIOVYKLĖ"
+    },
+    {
+      "id": 8,
+      "title": "DULKIŲ SIURBLYS"
+    }
+  ]
+}
